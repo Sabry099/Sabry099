@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Hi, I'm Ibrahim </h1>
+<h1 align="center"> 👋 Hi, I'm Sabir </h1>
 <p align="center">(Open for opportunities)</p>
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
